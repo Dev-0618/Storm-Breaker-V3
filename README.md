@@ -1,8 +1,14 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ultrasecurity/Storm-Breaker"><img src=".imgs/1demo.png" alt="StormBreaker"></a>
-
+  <a href="https://github.com/dev-0618/Storm-Breaker-V3">
+    <img src=".img/Stormbreaker.png" alt="StormBreaker">
+  </a>
+  <br>
+  <a href="https://github.com/ultrasecurity/Storm-Breaker" style="font-size:14px; text-decoration:none;">
+    <sub>Credits: github.com/ultrasec</sub>
+  </a>
 </h1>
+
 
 <h4 align="center">A Tool With Attractive Capabilities. </h4>
 
@@ -22,7 +28,7 @@
 
 </p>
 
-![demo](.imgs/screen1.jpeg)
+![demo](.img/screen1.jpeg)
 
 ### Features:
 
